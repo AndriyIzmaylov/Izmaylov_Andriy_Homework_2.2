@@ -33,4 +33,4 @@ reversed_number = 0
 for digit in list_of_entered_numbers:
     reversed_number = reversed_number * 10 + digit
 
-print("Reversed number: ", list_of_entered_numbers)
+print("Reversed number: ", reversed_number)
